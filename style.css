@@ -1,0 +1,55 @@
+	@font-face{
+        font-family:Indulekhablack;
+        src:url(Indulekhablack.ttf)format("truetype")
+}
+														
+									@font-face{
+        font-family:Indulekha;
+        src:url(Indulekha.ttf)format("truetype")
+}
+title{font-family:Indulekhablack;}
+p{font-family:Indulekha;font-size:20px;}
+
+h6{display:none;}
+			#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#mySearch {
+  width: 90%;
+  margin-left:3px;
+position:sticky;
+top:0;
+}
+h6{display:none;}
+div.sc{box-shadow:1px 1px 1px #212121; background-color:white;}
+h2{text-align:center;font-size:25px; background-color:#B71C1C;color:white;font-family:Indulekhablack;padding:10px;}
+
+
+a{text-decoration:none;}
+img{width:95%}
+						table.mobile {
+  font-family: Georgia, serif;
+ 
+  border: 3px solid #000000;
+  background-color: #D4EED1;
+  width: 100%;
+  text-align: left;
+}
+td{border: 1px solid #1A237E;padding:10px;}
+	
+				header{
+  
+  background-color:#DD2C00;
+  color:white;
+  position:sticky;
+top:0;
+  border-bottom:#e8491d 3px solid;
+}
+
+
+    		
+    				
+  h1{font-family:Indulekhablack;font-size:20px;margin-left:3px;}  						
+h3{font-family:Indulekhablack;}
